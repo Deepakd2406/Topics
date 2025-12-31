@@ -14,3 +14,5 @@ grep "root" /etc/passwd
 find / -name "*.conf"
 wc -l /var/log/syslog
 
+---------------------------Next day3---------------
+
